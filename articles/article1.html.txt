@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Comment gagner de l’argent en ligne sans investir</title>
+  <meta name="description" content="Découvrez comment gagner de l’argent en ligne sans investir, pour la France et l’Afrique. Méthodes fiables et gratuites.">
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<header>
+  <h1>GagneEnLigne</h1>
+  <nav>
+    <a href="../index.html">Accueil</a> |
+    <a href="../about.html">À propos</a> |
+    <a href="../contact.html">Contact</a>
+  </nav>
+</header>
+
+<main>
+  <article>
+    <h2>Comment gagner de l’argent en ligne sans investir (France & Afrique)</h2>
+    
+    <p>Vous voulez générer des revenus en ligne sans dépenser un centime ? Que vous soyez en France ou en Afrique francophone, cet article vous guide pas à pas pour gagner de l’argent sur Internet grâce à des méthodes fiables et accessibles à tous.</p>
+    
+    <!-- PLACE POUR PUB 1 -->
+    <div class="adsense">[Insérer ici le code AdSense de la première pub]</div>
+
+    <h3>1. Répondre à des sondages rémunérés</h3>
+    <p>De nombreux sites rémunèrent vos avis : Toluna, Swagbucks, LifePoints. C’est simple, gratuit, et vous pouvez le faire depuis votre smartphone ou votre ordinateur.</p>
+
+    <h3>2. Tester des applications et sites web</h3>
+    <p>Certains services payent pour tester leurs applications ou sites : UserTesting, Testapic. Idéal pour gagner quelques euros ou dollars rapidement sans investissement.</p>
+
+    <!-- PLACE POUR PUB 2 -->
+    <div class="adsense">[Insérer ici le code AdSense de la deuxième pub]</div>
+
+    <h3>3. Vendre des créations numériques</h3>
+    <p>Si vous avez des talents en design, écriture ou musique, vous pouvez vendre vos créations sur des plateformes comme Canva, Etsy, ou Fiverr. C’est gratuit pour commencer et accessible partout.</p>
+
+    <h3>4. Devenir assistant virtuel</h3>
+    <p>Des sites comme Upwork ou Fiverr permettent de proposer vos services en ligne : rédaction, traduction, gestion de réseaux sociaux. Pas besoin d’investir, juste votre temps et compétences.</p>
+
+    <h3>5. Partager vos connaissances</h3>
+    <p>Créez des mini-cours ou tutoriels sur des plateformes comme Udemy ou Teachable. Cela peut générer des revenus passifs après la publication, sans investissement initial.</p>
+
+    <!-- PLACE POUR PUB 3 -->
+    <div class="adsense">[Insérer ici le code AdSense de la troisième pub]</div>
+
+    <h3>6. Utiliser le marketing d’affiliation</h3>
+    <p>Recommandez des produits ou services via un blog ou les réseaux sociaux. Programmes comme Amazon, Awin, ou ShareASale permettent de gagner une commission sans rien investir.</p>
+
+    <h3>7. Écrire et publier sur un blog</h3>
+    <p>Comme ici, vous pouvez créer un blog gratuitement (Vercel + GitHub), publier du contenu et monétiser via Google AdSense. Avec de bons articles SEO, vous attirerez des visiteurs et des revenus.</p>
+
+    <h3>Conclusion</h3>
+    <p>Gagner de l’argent en ligne sans investissement est totalement possible, en France comme en Afrique francophone. La clé est de choisir une ou deux méthodes et de rester constant. Avec un blog bien référencé, des sondages, et l’affiliation, vos revenus peuvent rapidement croître.</p>
+
+    <!-- PLACE POUR PUB 4 -->
+    <div class="adsense">[Insérer ici le code AdSense de la quatrième pub]</div>
+
+  </article>
+</main>
+
+<footer>
+  <p>© 2026 GagneEnLigne - Tous droits réservés</p>
+</footer>
+
+</body>
+</html>
